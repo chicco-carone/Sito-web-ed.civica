@@ -1,6 +1,7 @@
 /* Posizioni Immagini */
-.pos1img{max-width: 1800px; margin: 40px auto; position: absolute; top: 11%; left: 1%;}
-.pos1nom{position: absolute; top: 10%}
+.pos1img{max-width: 1800px; margin: 40px auto; position: absolute; top: 16%; left: 1%;}
+.pos1nom{position: absolute; top: 10%; left: 1%;}
+.pos1-1nom{position: absolute; top: 13%;left: 1%;}
 .pos2img{max-width: 1800px; margin: 40px auto; position: absolute; top: 11%; left: 35%}
 .pos2nom{position: absolute; top: 10%; left: 35%}
 .pos3img{max-width: 1800px; margin: 40px auto; position: absolute; top: 11%; left: 65%}
