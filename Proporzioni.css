@@ -1,0 +1,12 @@
+@media (min-width:1920) {
+    .pos1img
+    {
+        position: absolute; top: 11%; left: 1%; /*Scrivi questo per ogni risoluzione cambiando il "min-width". Ricorda devi considerare la larghezza e non l'altezza*/
+    }
+}
+@media (min-width:1366) {
+    .pos1img
+    {
+        position: absolute; top: 21%; left: 1%; /*Scrivi questo per ogni risoluzione cambiando il "min-width". Ricorda devi considerare la larghezza e non l'altezza*/
+    }
+}
