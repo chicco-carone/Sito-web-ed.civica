@@ -24,15 +24,6 @@ h1{font-family: 'Dancing Script', cursive; Text-align: center; font-size: 250%;f
 .button{display: inline-block; background: #fff; color: #000; padding: 15px 30px; border-radius: 3px; text-decoration: none;} /* stile bottone */
 
 
-.pos1img{max-width: 1800px; margin: 40px auto; position: absolute; top: 11%; left: 1%}
-.pos1{position: absolute; top: 10%}
-.pos2img{max-width: 1800px; margin: 40px auto; position: absolute; top: 11%; left: 35%}
-.pos2{position: absolute; top: 10%; left: 35%}
-.pos3img{max-width: 1800px; margin: 40px auto; position: absolute; top: 11%; left: 65%}
-.pos3{position: absolute; top: 10%; left: 65%}
-
-
-
 .clearfix:after { /* fixa robe */
   visibility: hidden;
   display: block;

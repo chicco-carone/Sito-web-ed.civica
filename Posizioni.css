@@ -1,0 +1,12 @@
+/* Posizioni Immagini */
+.pos1img{max-width: 1800px; margin: 40px auto; position: absolute; top: 11%; left: 1%}
+.pos1nom{position: absolute; top: 10%}
+.pos2img{max-width: 1800px; margin: 40px auto; position: absolute; top: 11%; left: 35%}
+.pos2nom{position: absolute; top: 10%; left: 35%}
+.pos3img{max-width: 1800px; margin: 40px auto; position: absolute; top: 11%; left: 65%}
+.pos3nom{position: absolute; top: 10%; left: 65%}
+
+
+/* Posizioni Testo */
+.pos1{position: absolute; top: 10%}
+.pos2{position: absolute; top: 15%}
