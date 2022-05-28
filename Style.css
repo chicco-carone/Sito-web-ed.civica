@@ -4,7 +4,7 @@ body{font-family: 'Josefin Sans', sans-serif; font-weight:300; background-image:
 
 p{line-height: 22px; font-size: 40px;} /* stile paragrafo */
 .img{border: 3px solid #000; } /* Stile immagine */
-h1{font-family: 'Dancing Script', cursive; Text-align: center; font-size: 250%}
+h1{font-family: 'Dancing Script', cursive; Text-align: center; font-size: 250%;font-weight:400;}
 
 
 .header{background: rgb(80, 80, 80)} /*Colore barra */
