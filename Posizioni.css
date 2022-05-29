@@ -23,4 +23,8 @@
 /* Posizioni Testo pagina Principale*/
 .pos1princ{position: absolute; top: 9%}
 .pos2princ{position: absolute; top: 14%}
-.pos3princ{position: absolute; top: 122%}
+.pos3princ{position: absolute; top: 22%}
+
+
+/* Posizioni Altri elementi */
+.copyright{position: absolute; top: 200%;left: 45%}
