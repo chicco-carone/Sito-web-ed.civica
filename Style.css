@@ -2,7 +2,7 @@ html,body{height:100%} /*Altezza sito */
 body{font-family: 'Josefin Sans', sans-serif; font-weight:300; background-image: url("background.jpg"); color: rgb(0, 0, 0);}
 
 
-p{line-height: 22px; font-size: 40px;} /* stile paragrafo */
+p{line-height: 35px; font-size: 39px;} /* stile paragrafo */
 .img{border: 3px solid #000; } /* Stile immagine */
 h1{font-family: 'Dancing Script', cursive; Text-align: center; font-size: 250%;font-weight:400;}
 
