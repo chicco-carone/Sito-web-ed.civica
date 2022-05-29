@@ -60,11 +60,6 @@ h1{font-family: 'Dancing Script', cursive; Text-align: center; font-size: 250%;f
 .fixed-top {position: fixed; top: 0; right: 0; left: 0; z-index: 1030;}
 
 
-.copyright{
-  position: absolute; top: 200%;
-}
-
-
 .clearfix:after { /* fixa robe */
   visibility: hidden;
   display: block;
