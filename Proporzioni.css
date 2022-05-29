@@ -19,7 +19,31 @@
     .copyright{position: absolute; top: 250%;left: 45%}
     }
    
+
    @media (min-width: 1920px) {
+    
+    /* stili */
+    p{line-height: 35px; font-size: 39px;} 
+
+    /* Posizioni Immagini */
+    .pos1img{max-width: 1800px; margin: 40px auto; position: absolute; top: 14%; left: 1%; width:300px; height:300px}
+    .pos1nom{position: absolute; top: 10%; left: 1%;}
+    .pos1-1nom{position: absolute; top: 13%;left: 1%;}
+    .pos2img{max-width: 1800px; margin: 40px auto; position: absolute; top: 14%; left: 35%;width:300px; height:300px}
+    .pos2nom{position: absolute; top: 10%; left: 35%}
+    .pos3img{max-width: 1800px; margin: 40px auto; position: absolute; top: 14%; left: 65%;width:300px; height:476px}
+    .pos3nom{position: absolute; top: 10%; left: 65%}
+    .pos4img{max-width: 1800px; margin: 40px auto; position: absolute; top: 61%; left: 1%;width:300px; height:225px}
+    .pos4nom{position: absolute; top: 59%; left: 1%}
+    .pos5img{max-width: 1800px; margin: 40px auto; position: absolute; top: 61%; left: 35%;width:300px; height:300px}
+    .pos5nom{position: absolute; top: 59%; left: 35%}
+
+
+    /* Posizioni Altri elementi */
+    .copyright{position: absolute; top: 200%;left: 45%}}
+
+
+   @media (min-width: 1800px) {
     
     /* stili */
     p{line-height: 35px; font-size: 39px;} 
