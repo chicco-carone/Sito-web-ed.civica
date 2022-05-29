@@ -1,0 +1,12 @@
+Ada Lovelace, nacque a Londra il 10 dicembre 1815 era figlia del grande poeta inglese George Byron.
+Aveva una grande passione per la scienza e considerava il linguaggio matematico lo strumento per esplorare, decifrare e comprendere "le opere del Creatore" e le relazion i fra le cose. Riteneva che gli scienziati dovessere coltivare l'immaginazione.
+Nel Giugno del 1833 partecipò a Londra a un evento durante il quale incontrò Charles Babbage. Fu per lei una grande opportunità considerato che in quel tempo l'unico corso scentifico cui erano ammesse le donne era quello di botanica. 
+Ada fu affascinata dalla macchina di calcolo ideata da Babbage ed ispirata dal funzionamento dei telai di Jacquard.
+L'idea di Babbage fu coltivata dall'ingeniere Menabrea il quale comprese che ogni equazione matematica poteva essere programmata e tradotta in "schede perforate".
+Ada Lovelace contribuì allo sviluppo del progetto di Babbage scrivendo delle importanti Note e dimostrazioni matematiche attraverso tabelle, diagrammi e schemi descrittive delle potenzialità della macchina. il tutto era scritto con un linguaggio di elevata competenza scientifica ma ricco di similitudini poetiche. Ada Lovelace affermò che la macchina analitica di Babbage tesseva modelli algebrici come il telaio Jacquard tesseva fiori e foglie. 
+Ada Lovelace aveva compreso l'importanza e le potenzialità della macchina analitica e l'importanza della logica simbolica come strumento di comunicazione con la macchina e di quella che sarebbe stata la moderna programmazione.
+Ada Lovelace studiò i numeri di Bergulli da cui trasse l'ispirazione per inventare il primo algoritmo della storia. 
+La contessa Lovelace con la sua immaginazione aveva anticipato il futuro che avrebbe visto le macchine affinacare l'uomo.
+Nonostante il suo grande contributo per la scienza Ada Lovelace mantenne la sua indentità nascosta firmando i suoi lavori con A.A.L. (Augusta Ada Lovelace). Purtroppo il suo genio non venne riconosciuto dai circoli scientifici del suo tempo che non compresero la sua grande intuizione. 
+Non pubblicò altri lavori scientifici e si dedicò allo studio dei farmaci oppiaci e narcotici.
+Ada Lovelace morì di cancro il 27 novembre 1852.
